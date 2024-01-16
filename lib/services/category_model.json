@@ -1,0 +1,82 @@
+{
+  "categories": [
+    {
+      "name": "Trang phục nữ",
+      "subcategory": [
+        "Váy dạ hội",
+        "Áo Sơ Mi & Bộ",
+        "Đồng hồ Trang sức",
+        "Túi xách",
+        "Áo khoác"
+      ]
+    },
+    {
+      "name": "Thời trang nam",
+      "subcategory": [
+        "Vest ",
+        "Áo thun",
+        "Đồng hồ phụ kiện",
+        "Quần"
+      ]
+    },
+    {
+      "name": "Công nghệ & thiết bị",
+      "subcategory": [
+        "Tablet",
+        "Máy tính",
+        "Laptop",
+        "Chuột máy tính"
+      ]
+    },
+    {
+      "name": "Điện thoại",
+      "subcategory": [
+        "Samsung",
+        "Hwai",
+        "Apple"
+      ]
+    },
+    {
+      "name": "Trẻ em",
+      "subcategory": [
+        "Váy trẻ em",
+        "Áo Bộ",
+        "Đồ chơi",
+        "Giày dép"
+
+      ]
+    },
+    {
+      "name": "Thể thao",
+      "subcategory": [
+        "Giày sân cỏ",
+        "Dụng cụ thể thao",
+        "Đồ bảo hộ"
+      ]
+    },
+    {
+      "name": "Trang sức",
+      "subcategory": [
+        "Nhẫn",
+        "Dây chuyền",
+        "Bông tai"
+      ]
+    },
+    {
+      "name": "Mỹ phẩm",
+      "subcategory": [
+        "Nước hoa",
+        "Sữa rửa mặt",
+        "Make-up"
+      ]
+    },
+    {
+      "name": "Nội thất nhà",
+      "subcategory": [
+        "Bàn ghế",
+        "Tủ đồ",
+        "Giường"
+      ]
+    }
+  ]
+}

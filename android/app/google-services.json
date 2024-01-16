@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383153093820",
+    "project_id": "zenkashop-2d187",
+    "storage_bucket": "zenkashop-2d187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383153093820:android:27985a3a3d67a0c25464b9",
+        "android_client_info": {
+          "package_name": "com.example.appshopthoitran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC58f3Vozq9LNuzp5Xhj2X1tbhRw_areCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
